@@ -1,0 +1,7 @@
+
+Crear el archivo de políticas y colocarlo en la raíz del usuario (.java.policy)
+
+COMPILACION
+RMICGENERATION
+EJECUTAMAILBOX
+EJECUTAOBJREMOTO
